@@ -1,0 +1,11 @@
+_1a. Declare and Initialize an Array_
+`int[] myArray = new int[] {1, 2, 3, 4, 5};`
+
+_1b. Declare and Initialize a two-dimensional Array_
+`int[][] my2DArray = new int[][] {{1, 2, 3}, {4, 5, 6}};`
+
+_1c. Traverse an Array_
+`for (int i = 0; i < myArray.length; i++) { System.out.println(myArray[i]); }`
+
+_1d. Concatenate a String of Array_
+`String myString = Arrays.toString(myArray);` ‎<This message was edited>
